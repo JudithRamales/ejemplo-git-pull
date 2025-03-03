@@ -1,2 +1,2 @@
-# Repositorio para practicar git pull (freeCodeCamp)
+# Repositorio para practicar git fetch (freeCodeCamp)
 Repositorio para practicar el comado git pull.
